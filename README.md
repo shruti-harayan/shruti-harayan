@@ -50,4 +50,3 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=shruti-harayan&theme=tokyonight)
 
 ---
- *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
