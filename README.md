@@ -52,10 +52,9 @@
 
 ---
 
-## 📊 Most Used Language
+## 📊 Most Used Languages
 
-**Python**  
-<div style="background-color:#ddd;width:100%;border-radius:5px;"><div style="width:100%;background-color:#3776AB;height:15px;border-radius:5px;"></div></div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shruti-harayan&layout=compact&theme=radical)
 
 
 ### 📊 GitHub Stats:
