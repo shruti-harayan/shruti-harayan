@@ -59,7 +59,7 @@
 
 ### 📊 GitHub Stats:
 
-![Shruti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shruti-harayan&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=shruti-harayan&theme=tokyonight)
+![Shruti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shruti-harayan&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=shruti-harayan&theme=radical)
 
 ---
