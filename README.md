@@ -44,6 +44,20 @@
 
 ---
 
+## 🛠️ Tools
+
+| VSCode | SQLite | MySQL | Docker | Git |
+|--------|--------|-------|--------|-----|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> |
+
+---
+
+## 📊 Most Used Language
+
+**Python**  
+<div style="background-color:#ddd;width:100%;border-radius:5px;"><div style="width:100%;background-color:#3776AB;height:15px;border-radius:5px;"></div></div>
+---
+
 ### 📊 GitHub Stats:
 
 ![Shruti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shruti-harayan&show_icons=true&theme=tokyonight)
