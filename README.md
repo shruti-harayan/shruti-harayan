@@ -9,8 +9,7 @@
 ### 👩‍💻 About Me:
 
 - 🎓 Passionate about building real-world tech solutions
-- 💬 Ask me about Python, C++, SQL, or Frontend Development
-- ☕ Fun Fact: I debug better with coffee!
+- 💬 Ask me about Python, C++, SQL.
 
 ---
 
@@ -23,9 +22,8 @@
 
 ### 💼 Projects:
 
-- 📚 **Library Manager** – Manage books and members using Python & Tkinter  
+- 📚 **Library Management System** – Manage books and members using Python & Tkinter  
 - 🤖 **ChatBot** – Dialogflow + Flask bot hosted 24/7 for user interaction  
-- 🌐 **Portfolio Website** – Built using HTML, CSS, JavaScript, and React
 
 👉 [View all my projects](https://github.com/shruti-harayan?tab=repositories)
 
@@ -46,9 +44,9 @@
 
 ## 🛠️ Tools
 
-| VSCode | SQLite | MySQL | Docker | Git |
-|--------|--------|-------|--------|-----|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> |
+SQLite | MySQL | Docker | Git |
+--------|-------|--------|-----|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> |
 
 ---
 
