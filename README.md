@@ -68,8 +68,8 @@
 
 ![Shruti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shruti-harayan&show_icons=true&theme=radical)
 
-<!-- GitHub Streak  -->
-![GitHub Streak](https://streak-stats.demolab.com/?user=shruti-harayan)
+<!-- GitHub Activity Graph  -->
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shruti-harayan&theme=react-dark)
 
 ---
 
