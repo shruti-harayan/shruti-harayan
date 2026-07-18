@@ -13,9 +13,13 @@ Passionate about building scalable web applications, REST APIs, and AI-powered s
 ### 👩‍💻 About Me
 
 🎓 MSc IT Graduate passionate about software development and backend engineering.
+
 💻 I enjoy building **real-world full-stack applications** using **Python, FastAPI, React, SQL, and Docker**.
+
 🚀 Currently expanding my knowledge in **System Design, Generative AI, Cloud, and scalable backend architectures**.
+
 🤖 Interested in **AI-powered applications, automation, REST APIs, and modern web technologies**.
+
 🎯 Looking for opportunities as a **Software Engineer**, **Backend Developer**, or **Full-Stack Developer**.
 
 ---
@@ -25,8 +29,7 @@ Passionate about building scalable web applications, REST APIs, and AI-powered s
 - 🎓 **GradeFlow**  
   A **college grading and marks management system** designed to streamline exam evaluation, section-wise marking, result computation, and administrative control.  
   Built with a focus on **accuracy, scalability, and real academic workflows**.
-  ### Technologies
-  Python, FastAPI, React, PostgreSQL, Docker, Tailwind CSS, TypeScript
+ Technologies- Python, FastAPI, React, PostgreSQL, Docker, Tailwind CSS, TypeScript
 
 - 🤖 **AI Resume Analyzer**  
   An **AI-based resume screening system** that analyzes resumes, extracts key skills, matches job requirements, and provides intelligent insights to improve hiring efficiency.
@@ -59,23 +62,18 @@ Passionate about building scalable web applications, REST APIs, and AI-powered s
 ### 🧰 Tools & Platforms
 
 | SQLite | MySQL | Git | Docker |
-|------|-------|-----|
+|------|-------|-----|-----|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> | <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> |
 
 ---
 
-### 📊 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shruti-harayan&layout=compact&theme=radical)
-
----
 
 ### 📈 GitHub Stats
 
 ![Shruti's GitHub Stats]<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=shruti-harayan&theme=radical"/>
 
 <!-- GitHub Activity Graph  -->
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shruti-harayan&theme=react-dark)
+![GitHub Activity Graph]<img src="https://github-readme-activity-graph.vercel.app/graph?username=shruti-harayan&theme=react-dark"/>
 
 ---
 
