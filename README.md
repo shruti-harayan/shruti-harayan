@@ -35,8 +35,12 @@ Passionate about building scalable web applications, REST APIs, and AI-powered s
 - 🤖 **AI Resume Analyzer**  
   An **AI-based resume screening system** that analyzes resumes, extracts key skills, matches job requirements, and provides intelligent insights to improve hiring efficiency.
 
+ Technologies- Python, FastAPI, React, SQLite, Tailwind CSS, Groq LLM, JavaScript
+
 - 📚 **Library Management System**  
   Desktop application to manage books, members, and transactions using **Python & Tkinter**.
+
+   Technologies- Python, Tkinter, SQLite
 
 - 💬 **ChatBot**  
   A conversational chatbot built using **Dialogflow + Flask**, deployed for continuous user interaction.
@@ -71,7 +75,7 @@ Passionate about building scalable web applications, REST APIs, and AI-powered s
 
 ### 📈 GitHub Stats
 <!-- GitHub Activity Graph  -->
-![GitHub Activity Graph]<img src="https://github-readme-activity-graph.vercel.app/graph?username=shruti-harayan&theme=react-dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shruti-harayan&theme=react-dark"/>
 
 ---
 
