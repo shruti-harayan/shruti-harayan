@@ -29,7 +29,8 @@ Passionate about building scalable web applications, REST APIs, and AI-powered s
 - 🎓 **GradeFlow**  
   A **college grading and marks management system** designed to streamline exam evaluation, section-wise marking, result computation, and administrative control.  
   Built with a focus on **accuracy, scalability, and real academic workflows**.
- Technologies- Python, FastAPI, React, PostgreSQL, Docker, Tailwind CSS, TypeScript
+  
+  Technologies- Python, FastAPI, React, PostgreSQL, Docker, Tailwind CSS, TypeScript
 
 - 🤖 **AI Resume Analyzer**  
   An **AI-based resume screening system** that analyzes resumes, extracts key skills, matches job requirements, and provides intelligent insights to improve hiring efficiency.
@@ -69,9 +70,6 @@ Passionate about building scalable web applications, REST APIs, and AI-powered s
 
 
 ### 📈 GitHub Stats
-
-![Shruti's GitHub Stats]<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=shruti-harayan&theme=radical"/>
-
 <!-- GitHub Activity Graph  -->
 ![GitHub Activity Graph]<img src="https://github-readme-activity-graph.vercel.app/graph?username=shruti-harayan&theme=react-dark"/>
 
