@@ -8,12 +8,6 @@ Software Engineer | Full-Stack Developer | Python • FastAPI • React • SQL
 Passionate about building scalable web applications, REST APIs, and AI-powered solutions.
 </p>
 
-<p align="center">
-<a href="https://github.com/shruti-harayan">
-<img src="https://komarev.com/ghpvc/?username=shruti-harayan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</a>
-</p>
-
 ---
 
 # 👩‍💻 About Me
