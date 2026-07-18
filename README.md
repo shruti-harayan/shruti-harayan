@@ -1,18 +1,22 @@
-my github profile readme is it good:
-<h1 align="center">👋 Hello, I'm Shruti</h1>
+<h1 align="center">Hi 👋, I'm Shruti Harayan</h1>
+
+<h3 align="center">
+Software Engineer | Full-Stack Developer | Python • FastAPI • React • SQL
+</h3>
 
 <p align="center">
-🚀 Aspiring Software Engineer | Python • C++ • SQL • Full-Stack Development
+Passionate about building scalable web applications, REST APIs, and AI-powered solutions.
 </p>
 
 ---
 
 ### 👩‍💻 About Me
 
-- 🎓 Passionate about building **scalable, real-world software solutions**
-- 🧠 Interested in **AI-powered systems and automation**
-- 🛠️ Enjoy working across **backend, frontend, and database design**
-- 💬 Ask me about **Python, C++, SQL, Web Development, and AI projects**
+🎓 MSc IT Graduate passionate about software development and backend engineering.
+💻 I enjoy building **real-world full-stack applications** using **Python, FastAPI, React, SQL, and Docker**.
+🚀 Currently expanding my knowledge in **System Design, Generative AI, Cloud, and scalable backend architectures**.
+🤖 Interested in **AI-powered applications, automation, REST APIs, and modern web technologies**.
+🎯 Looking for opportunities as a **Software Engineer**, **Backend Developer**, or **Full-Stack Developer**.
 
 ---
 
@@ -21,6 +25,8 @@ my github profile readme is it good:
 - 🎓 **GradeFlow**  
   A **college grading and marks management system** designed to streamline exam evaluation, section-wise marking, result computation, and administrative control.  
   Built with a focus on **accuracy, scalability, and real academic workflows**.
+  ### Technologies
+  Python, FastAPI, React, PostgreSQL, Docker, Tailwind CSS, TypeScript
 
 - 🤖 **AI Resume Analyzer**  
   An **AI-based resume screening system** that analyzes resumes, extracts key skills, matches job requirements, and provides intelligent insights to improve hiring efficiency.
@@ -38,7 +44,7 @@ my github profile readme is it good:
 
 ### 🛠️ Tech Stack
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -52,9 +58,9 @@ my github profile readme is it good:
 
 ### 🧰 Tools & Platforms
 
-| SQLite | MySQL | Git |
+| SQLite | MySQL | Git | Docker |
 |------|-------|-----|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> | <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> |
 
 ---
 
@@ -66,7 +72,7 @@ my github profile readme is it good:
 
 ### 📈 GitHub Stats
 
-![Shruti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shruti-harayan&show_icons=true&theme=radical)
+![Shruti's GitHub Stats]<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=shruti-harayan&theme=radical"/>
 
 <!-- GitHub Activity Graph  -->
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shruti-harayan&theme=react-dark)
@@ -77,3 +83,6 @@ my github profile readme is it good:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shruti-harayan)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shrutiharayan06@gmail.com)
+
+---
+⭐ *"Code. Learn. Build. Improve. Repeat."*
